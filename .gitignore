@@ -1,0 +1,4 @@
+.venv
+vocab.txt
+vocab_embeddings.pkl
+__pycache__/
