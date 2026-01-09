@@ -83,14 +83,12 @@ with st.expander("📚 Examples"):
         "Equation": [
             "king - man + woman",
             "doctor - man + woman",
-            "big + small - fast + tiny",
-            "python + code - java"
+            "dog - puppy + kitten",
         ],
         "Expected": [
             "queen",
             "nurse",
-            "micro",
-            "script"
+            "cat",
         ]
     }
     st.table(examples_data)
